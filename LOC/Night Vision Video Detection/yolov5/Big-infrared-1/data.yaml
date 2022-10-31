@@ -1,0 +1,9 @@
+names:
+- bus
+- car
+- cyclist
+- person
+- truck
+nc: 5
+train: Big-infrared-1/train/images
+val: Big-infrared-1/valid/images

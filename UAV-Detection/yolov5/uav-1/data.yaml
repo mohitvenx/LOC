@@ -1,0 +1,5 @@
+names:
+- drone
+nc: 1
+train: uav-1/train/images
+val: uav-1/valid/images
